@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Here I am creating tickets as an end-user of osTicket.com. These tickets will be submitted to osTicket and I will then receive and solve  these tickets as a help desk professional on the other end.
+Here I am creating tickets as an end-user of osTicket.com. These tickets will be submitted to osTicket and I will then receive and solve these tickets as a help desk professional on the other end. End-users don't always specify their issues correctly and often time misassign the priority level and SLA of their ticket. This is where the intake process comes into play, which I'll get into in the next step. During the intake process I will correct any issues with the ticket submission and either self solve as the Sys Admin or reassign the ticket to a Help Desk technician.
 <br />
 
 ![image](https://github.com/OmarJamaladdin/ticket-lifecycle/assets/140512686/0e35139b-303b-41fe-8598-d8ddaf52599f)
@@ -42,7 +42,7 @@ Here is the intake process of the ticket I created earlier from Karen (End-User)
 
 ![image](https://github.com/OmarJamaladdin/ticket-lifecycle/assets/140512686/32f1ffeb-052e-4dee-a512-f77ff5139266)
 
-Here I am still Jane (Sys Admin). Again,  I upgraded the priority level of this ticket to what I deemed neccessary (high) and I also reset the SLA to SEV-B. However, this time I assigned the ticket to agent John Doe via Warm Handoff (meaning we had communication and the assignment was acknowledged. This way he can work the issue and find a resolution. While Jane(Sys Admin) handles more severe concenrns.
+Here I am still Jane (Sys Admin). Again,  I upgraded the priority level of this ticket to what I deemed neccessary (high) and I also reset the SLA to SEV-B. However, this time I assigned the ticket to agent John Doe via Warm Handoff (meaning we had communication and the assignment was acknowledged. This way he can work the issue and find a resolution. While Jane(Sys Admin) handles more severe concenrns. An entire department not being able to use Adobe Reader is certainly serious, however it isn't a customer facing issue so I didn't assign a SEV-A SLA or try to fix myself as Jane.
 
 ![image](https://github.com/OmarJamaladdin/ticket-lifecycle/assets/140512686/dbabc12d-a2b1-4681-84c0-e7affd7088b8)
 
