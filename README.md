@@ -34,11 +34,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 Here I am creating tickets as an end-user of osTicket.com. These tickets will be submitted to osTicket and I will then receive and solve  these tickets as a help desk professional on the other end.
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/OmarJamaladdin/ticket-lifecycle/assets/140512686/0e35139b-303b-41fe-8598-d8ddaf52599f)
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here is the intake process of the ticket I created earlier from Karen (End-User). In this screenshot I am now Jane Doe (Sys Admin). I have received the ticket and made changes to the ticket due to the severity of the ticket that the end-user wasn't aware of. Customers not being able to use online banking is a serious issue so I set the priority of the ticket to 'EMERGENCY" and set the SLA or (Service Level Agreement) to Sev-A. Meaning the ticket must be solved within 1 hour of receiving it.
 </p>
 <br />
 
